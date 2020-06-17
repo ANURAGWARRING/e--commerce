@@ -1,0 +1,41 @@
+export default {
+  products: [
+    {
+      _id: "1",
+      name: "Slim Shirt",
+      category: "Shirts",
+      image: "/images/shirt1.jpg",
+      price: 1,
+      brand: "Nike",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: "2",
+      name: "Fit Shirt",
+      image: "./images/shirt1.jpg",
+      price: 2,
+      brand: "Adidas",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: "3",
+      name: "Fit Shirt",
+      image: "./images/shirt1.jpg",
+      price: 3,
+      brand: "Adidas",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      _id: "4",
+      name: "Fit Shirt",
+      image: "./images/shirt1.jpg",
+      price: 4,
+      brand: "Adidas",
+      rating: 4.5,
+      numReviews: 10,
+    },
+  ],
+};
